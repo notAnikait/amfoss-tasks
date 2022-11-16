@@ -18,7 +18,8 @@ git commit -m "TerminalHunt-Step6"
 git push origin main
 ```
 8. ``` git branch -a ``` and found the branch with largest continent...
-``` git checkout asia
+``` 
+git checkout asia
 find . -name athens
 ```
 Output: 
