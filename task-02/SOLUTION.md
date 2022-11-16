@@ -8,9 +8,9 @@
 
 4. ``` echo "107" >> solution/part1.txt ```
 
-5. ``` HCF(336, 702) = 6 ``` and fourth digit of :pi: is 1. ``` cp 06/1.txt solution/part2.txt ```
+5. ``` HCF(336, 702) = 6 ``` and fourth digit of π is 1  ``` cp 06/1.txt solution/part2.txt ```
 
-6. ``` git log ``` and then got a hint that the file is 10/1.txt ``` cp 10/1.txt solution/part3.txt ```
+6. ``` git log ``` and then got a hint that the file is 10/1.txt  ``` cp 10/1.txt solution/part3.txt ```
 
 7. Commiting the file
 ``` git add .
@@ -37,7 +37,8 @@ cat part1.txt part2.txt part3.txt part4.txt > password.txt
 cat password.txt
 ```
 
-11. Opened the PDF file with the password <photo> 
+11. Opened the PDF file with the password
+![Completed Screenshot](screenshot.png)
 
 12. Created SOLUTION.md (this file)
 
